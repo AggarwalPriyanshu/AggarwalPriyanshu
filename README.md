@@ -52,7 +52,7 @@ This section showcases my journey in **Python, MySQL, Machine Learning, and Deep
 
 ## 🌐 Connect With Me  
 
-- [LinkedIn](www.linkedin.com/in/priyanshu1201)  
+- [LinkedIn](https://www.linkedin.com/in/priyanshu1201)
 - [Email](Priyanshuaggarwal.in@gmail.com)  
 
 ⭐ Explore my repositories for detailed work in each domain!
