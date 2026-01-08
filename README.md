@@ -39,7 +39,7 @@ I have strong hands-on experience in **core electronics**, including **VLSI desi
 ---
 
 ### 🔹 Certificates (Electronics & Core Engineering)
-- **[Technical & Core Engineering Certificates](https://github.com/AggarwalPriyanshu/Certifications)**  
+- **[ECE & VLSI Certifications](https://github.com/AggarwalPriyanshu/Certifications/tree/main/CERTIFICATES/ELECTRICAL%20%26%20VLSI%20CERTIFICATIONS)**  
   - VLSI, Semiconductor Technology, Circuits, UAVs  
   - Workshops, conferences, exhibitions, and internships  
 
