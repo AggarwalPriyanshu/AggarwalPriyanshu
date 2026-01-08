@@ -79,7 +79,7 @@ This section reflects my journey in **Python, Data Analysis, Machine Learning, D
 ---
 
 ### 🔹 Certificates (AI / ML / Data)
-- **[AI, ML & Data Science Certificates](https://github.com/AggarwalPriyanshu/Certifications)**  
+- **[AI, ML & Data Science Certificates](https://github.com/AggarwalPriyanshu/Certifications/AIceritifcations)**  
   - Generative AI, ML foundations, data analytics  
   - Workshops, online courses, and certifications  
 
